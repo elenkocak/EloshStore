@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EloshStore.Entities", "EloshStore.Entities\EloshStore.Entities.csproj", "{89868A0B-8DB9-4A92-A5FB-F9EFA413A63A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EloshStore.BLL", "EloshStore.BLL\EloshStore.BLL.csproj", "{80231174-B59E-43B7-8C15-4DFD9050931D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EloshStore.Dal", "EloshStore.Dal\EloshStore.Dal.csproj", "{EDF338D9-509E-4042-BF6E-69E362DB9D9C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EloshStore.Core", "EloshStore.Core\EloshStore.Core.csproj", "{CD383BB4-E97B-4946-868C-430EB6F7BC02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EloshStoree.UI", "EloshStoree.UI\EloshStoree.UI.csproj", "{629ED24F-C71A-42CD-903A-7D875CE24DCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{744B6DD6-C4BC-4AA8-B685-CAE79E159B45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89868A0B-8DB9-4A92-A5FB-F9EFA413A63A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89868A0B-8DB9-4A92-A5FB-F9EFA413A63A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89868A0B-8DB9-4A92-A5FB-F9EFA413A63A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89868A0B-8DB9-4A92-A5FB-F9EFA413A63A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80231174-B59E-43B7-8C15-4DFD9050931D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80231174-B59E-43B7-8C15-4DFD9050931D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80231174-B59E-43B7-8C15-4DFD9050931D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80231174-B59E-43B7-8C15-4DFD9050931D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDF338D9-509E-4042-BF6E-69E362DB9D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF338D9-509E-4042-BF6E-69E362DB9D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF338D9-509E-4042-BF6E-69E362DB9D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF338D9-509E-4042-BF6E-69E362DB9D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD383BB4-E97B-4946-868C-430EB6F7BC02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD383BB4-E97B-4946-868C-430EB6F7BC02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD383BB4-E97B-4946-868C-430EB6F7BC02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD383BB4-E97B-4946-868C-430EB6F7BC02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{629ED24F-C71A-42CD-903A-7D875CE24DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629ED24F-C71A-42CD-903A-7D875CE24DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629ED24F-C71A-42CD-903A-7D875CE24DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629ED24F-C71A-42CD-903A-7D875CE24DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{744B6DD6-C4BC-4AA8-B685-CAE79E159B45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744B6DD6-C4BC-4AA8-B685-CAE79E159B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744B6DD6-C4BC-4AA8-B685-CAE79E159B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744B6DD6-C4BC-4AA8-B685-CAE79E159B45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F864F389-0E32-4A6B-A820-8D92F582E83E}
+	EndGlobalSection
+EndGlobal
